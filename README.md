@@ -1,16 +1,25 @@
 ## Hi there 👋
+#### I am Sayali
 
-<!--
-**sayaliambure/sayaliambure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a Data Scientist
+- 👯 I’m looking to collaborate on projects about AI/ML/data science
+- 📫 How to reach me: sayaliambure15@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Looking for freelance work!!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> Connect with me on
+<a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+
+<p> Read my tech blogs on
+<a href="https://medium.com/@sayaliambure15"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
+</p>
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sayaliambure&theme=dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayaliambure)](https://github.com/anuraghazra/github-readme-stats)
+---
