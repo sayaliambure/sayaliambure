@@ -1,5 +1,4 @@
-## Hi there 👋
-### I am Sayali
+### Hey👋  I'm Sayali
 
 - 🔭 I’m currently working as a Data Scientist
 - 👯 I’m looking to collaborate on projects about AI/ML/data science
@@ -15,3 +14,6 @@
 <p> Read my tech blogs on   
 <a href="https://medium.com/@sayaliambure15"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
 </p>
+
+--
+[![GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayaliambure&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
