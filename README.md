@@ -15,5 +15,5 @@
 <a href="https://medium.com/@sayaliambure15"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
 </p>
 
---
-[![GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayaliambure&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayaliambure&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
