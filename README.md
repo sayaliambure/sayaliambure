@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Looking for freelance work!!
 
-- View my portfolio on https://portfolio-website-black-delta.vercel.app/
+- View my portfolio <a href='https://portfolio-website-black-delta.vercel.app/' target='_blank'>here </a>
 
 
 <p> Connect with me on   
