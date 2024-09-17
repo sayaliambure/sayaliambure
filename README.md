@@ -6,6 +6,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Looking for freelance work!!
 
+- View my portfolio on https://portfolio-website-black-delta.vercel.app/
+
 
 <p> Connect with me on   
 <a href="https://www.linkedin.com/in/sayali-ambure"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
