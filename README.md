@@ -14,7 +14,7 @@
 </p>
 
 <p> Read my tech blogs on   
-<a href="https://medium.com/@sayaliambure15"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" target="_blank"></a>
+<a href="https://medium.com/@sayaliambure15" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
 </p>
 
 
