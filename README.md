@@ -10,7 +10,7 @@
 
 
 <p> Connect with me on   
-<a href="https://www.linkedin.com/in/sayali-ambure"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/sayali-ambure" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 <p> Read my tech blogs on   
