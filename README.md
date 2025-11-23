@@ -1,6 +1,6 @@
 ### Hey👋  I'm Sayali
 
-- 🔭 I’m currently working as a Applied AI Engineer
+- 🔭 I’m currently working as an Applied AI Engineer
 - 👯 I’m looking to collaborate on projects about AI/ML/data science
 - 📫 How to reach me: sayaliambure15@gmail.com
 - 😄 Pronouns: she/her
