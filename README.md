@@ -26,11 +26,11 @@ Currently working as an **Applied AI Engineer**, with hands-on experience across
 ---
 
 ### 🏗️ Notable Work
-🔹 **AI-powered hiring & decision intelligence tools**
-🔹 **Dynamic pricing systems** for businesses
-🔹 **Speaker diarization & transcription pipelines**
-🔹 **Developer productivity tools & Chrome extensions**
-🔹 **End-to-end SaaS MVPs using AI**
+- **AI-powered hiring & decision intelligence tools**
+- **Dynamic pricing systems** for businesses
+- **Speaker diarization & transcription pipelines**
+- **Developer productivity tools & Chrome extensions**
+- **End-to-end SaaS MVPs using AI**
 
 👉 Check out my projects below — most are **built, not tutorial code**.
 
