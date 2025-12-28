@@ -1,21 +1,66 @@
-### Hey👋  I'm Sayali
+## Hey 👋 I’m Sayali Ambure  
 
-- 🔭 I’m currently working as an Applied AI Engineer
-- 👯 I’m looking to collaborate on projects about AI/ML/data science
-- 📫 How to reach me: sayaliambure15@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Looking for freelance work!!
+**Applied AI Engineer | AI Product Builder | ML & Data Science**
 
-- View my portfolio <a href='https://sayaliambure.vercel.app/' target="_blank">here!</a>
+I build **practical, production-ready AI systems**, not just models.  
+Currently working as an **Applied AI Engineer**, with hands-on experience across **ML, NLP, LLMs, backend APIs, and AI-driven products**.
 
+---
 
-<p> Connect with me on   
-<a href="https://www.linkedin.com/in/sayali-ambure" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+### 💡 What I do
+- 🤖 Design & deploy **ML / AI solutions** for real business problems  
+- 🧠 Work with **LLMs, NLP, data pipelines, and model evaluation**
+- ⚙️ Build **end-to-end AI products** (FastAPI, backend logic, integrations)
+- 📊 Translate data → insights → **decision-making tools**
+
+---
+
+### 🧩 Tech Stack
+**Languages:** Python, SQL, JavaScript  
+**AI / ML:** Scikit-learn, PyTorch, NLP, LLMs, RAG, Whisper  
+**Backend:** FastAPI, Flask, REST APIs  
+**Databases:** PostgreSQL, SQLAlchemy  
+**Tools:** Git, Docker, GitHub Actions  
+**Frontend (basic):** React, Tailwind CSS  
+
+---
+
+### 🏗️ Notable Work
+- 🔹 **AI-powered hiring & decision intelligence tools**
+- 🔹 **Dynamic pricing systems** for businesses
+- 🔹 **Speaker diarization & transcription pipelines**
+- 🔹 **Developer productivity tools & Chrome extensions**
+- 🔹 **End-to-end SaaS MVPs using AI**
+
+👉 Check out my projects below — most are **built, not tutorial code**.
+
+---
+
+### ✍️ Writing & Learning in Public
+I share my learnings while building AI products:
+- 📘 **Tech blogs:** [Medium](https://medium.com/@sayaliambure15)
+- 🌐 **Portfolio:** [sayaliambure.vercel.app](https://sayaliambure.vercel.app)
+
+---
+
+### 🤝 Let’s Connect
+Open to:
+- 💼 **Full-time AI / ML roles**
+- 🧑‍💻 **Freelance & contract work**
+- 🚀 **Early-stage startup collaborations**
+
+📫 **Email:** sayaliambure15@gmail.com  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sayali-ambure" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sayaliambure15" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
-<p> Read my tech blogs on   
-<a href="https://medium.com/@sayaliambure15" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"></a>
-</p>
+---
 
-
-[![GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayaliambure&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+📈 **Most Used Languages**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayaliambure&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
