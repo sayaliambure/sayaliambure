@@ -1,4 +1,4 @@
-## Hey 👋 I’m Sayali Ambure  
+## Hey 👋 I’m Sayali  
 
 **Applied AI Engineer | AI Product Builder | ML & Data Science**
 
@@ -26,11 +26,11 @@ Currently working as an **Applied AI Engineer**, with hands-on experience across
 ---
 
 ### 🏗️ Notable Work
-- 🔹 **AI-powered hiring & decision intelligence tools**
-- 🔹 **Dynamic pricing systems** for businesses
-- 🔹 **Speaker diarization & transcription pipelines**
-- 🔹 **Developer productivity tools & Chrome extensions**
-- 🔹 **End-to-end SaaS MVPs using AI**
+🔹 **AI-powered hiring & decision intelligence tools**
+🔹 **Dynamic pricing systems** for businesses
+🔹 **Speaker diarization & transcription pipelines**
+🔹 **Developer productivity tools & Chrome extensions**
+🔹 **End-to-end SaaS MVPs using AI**
 
 👉 Check out my projects below — most are **built, not tutorial code**.
 
@@ -39,6 +39,7 @@ Currently working as an **Applied AI Engineer**, with hands-on experience across
 ### ✍️ Writing & Learning in Public
 I share my learnings while building AI products:
 - 📘 **Tech blogs:** [Medium](https://medium.com/@sayaliambure15)
+- 🔗 **Experiments, lessons & growth** [LinkedIn](https://www.linkedin.com/in/sayali-ambure)
 - 🌐 **Portfolio:** [sayaliambure.vercel.app](https://sayaliambure.vercel.app)
 
 ---
@@ -59,8 +60,3 @@ Open to:
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
-
----
-
-📈 **Most Used Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayaliambure&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
