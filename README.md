@@ -2,7 +2,7 @@
 
 **Applied AI Engineer | AI Product Builder | ML & Data Science**
 
-I build **practical, production-ready AI systems**, not just models.  
+I build **practical, production-ready AI systems**.  
 
 ---
 
@@ -26,10 +26,10 @@ I build **practical, production-ready AI systems**, not just models.
 
 ### ✍️ Writing & Learning in Public
 I share my learnings while building AI products:
-- 📘 **Tech blogs:** [Medium](https://medium.com/@sayaliambure15)
 - 🔗 **Experiments, lessons & growth** [LinkedIn](https://www.linkedin.com/in/sayali-ambure)
 - 🌐 **Portfolio:** [sayaliambure.vercel.app](https://sayaliambure.vercel.app)
-
+- 📘 **Tech blogs:** [Medium](https://medium.com/@sayaliambure15)
+  
 ---
 
 ### 🤝 Let’s Connect
