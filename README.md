@@ -3,16 +3,14 @@
 **Applied AI Engineer | AI Product Builder | ML & Data Science**
 
 I build **practical, production-ready AI systems**, not just models.  
-Currently working as an **Applied AI Engineer**, with hands-on experience across **ML, NLP, LLMs, backend APIs, and AI-driven products**.
 
 ---
 
 ### 💡 What I do
 - 🤖 Design & deploy **ML / AI solutions** for real business problems  
 - 🧠 Work with **LLMs, NLP, data pipelines, and model evaluation**
-- ⚙️ Build **end-to-end AI products** (FastAPI, backend logic, integrations)
-- 📊 Translate data → insights → **decision-making tools**
-
+- ⚙️ Build **end-to-end AI products**
+  
 ---
 
 ### 🧩 Tech Stack
@@ -23,16 +21,6 @@ Currently working as an **Applied AI Engineer**, with hands-on experience across
 **Tools:** Git, Docker, GitHub Actions  
 **Frontend (basic):** React, Tailwind CSS  
 
----
-
-### 🏗️ Notable Work
-- **AI-powered hiring & decision intelligence tools**
-- **Dynamic pricing systems** for businesses
-- **Speaker diarization & transcription pipelines**
-- **Developer productivity tools & Chrome extensions**
-- **End-to-end SaaS MVPs using AI**
-
-👉 Check out my projects below — most are **built, not tutorial code**.
 
 ---
 
